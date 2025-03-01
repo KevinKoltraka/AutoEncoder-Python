@@ -1,6 +1,6 @@
 """
 Enterprise-Grade Malicious Login Detection System
-Author: Security Engineering Team
+Author: Kevin Koltraka
 Version: 2.1
 """
 
